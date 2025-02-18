@@ -9,8 +9,6 @@ body {
   overflow-x: hidden;
   min-height: 100vh;
 }
-
-/* From Uiverse.io by SelfMadeSystem */
 .container {
   position: absolute;
   inset: -1em;
@@ -58,7 +56,6 @@ body {
   }
 }
 
-/* From Uiverse.io by Yaya12085 */
 .form {
   display: flex;
   position: absolute;
